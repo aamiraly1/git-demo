@@ -8,4 +8,5 @@ for f in front,back:
     print(f)
 dic1.pop("frontend")
 print(dic1)
+print(dic1)
 
