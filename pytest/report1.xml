@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="3" time="0.032" timestamp="2025-08-27T13:18:11.722304+05:00" hostname="Aamirs-MacBook-Pro.local"><testcase classname="firstpy_test" name="test_1" time="0.001"><failure message="assert 10 == 20">def test_1():
+        x=10
+        y=20
+&gt;       assert x==y
+E       assert 10 == 20
+
+firstpy_test.py:4: AssertionError</failure></testcase><testcase classname="firstpy_test" name="test_2" time="0.000" /><testcase classname="firstpy_test" name="test_login" time="0.000" /></testsuite></testsuites>
